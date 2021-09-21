@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".activity.ExplicitIntentActivity">
+
+    <Button
+        android:id="@+id/btnPenguarangn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pengurangan" />
+
+    <Button
+        android:id="@+id/btnPerkalian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/perkalian" />
+
+    <Button
+        android:id="@+id/btnPenjumlahan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/penjumlahan" />
+
+    <Button
+        android:id="@+id/btnPembagian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pembagian" />
+
+</LinearLayout>

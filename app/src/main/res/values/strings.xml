@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StadyCase</string>
+    <string name="hello">Hello</string>
+    <string name="_0">0</string>
+    <string name="action">Action</string>
+    <string name="variable_2">Variable 2</string>
+    <string name="variable_1">Variable 1</string>
+    <string name="pengurangan">Pengurangan</string>
+    <string name="pembagian">Pembagian</string>
+    <string name="penjumlahan">Penjumlahan</string>
+    <string name="perkalian">Perkalian</string>
+</resources>
