@@ -9,4 +9,8 @@
     <string name="pembagian">Pembagian</string>
     <string name="penjumlahan">Penjumlahan</string>
     <string name="perkalian">Perkalian</string>
+    <string name="Camera">camera</string>
+    <string name="sms">SMS</string>
+    <string name="galery">Gallery</string>
+    <string name="dialnumber">Dial Number</string>
 </resources>
